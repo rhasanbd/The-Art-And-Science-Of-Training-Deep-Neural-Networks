@@ -1,4 +1,7 @@
-Training Deep Artificial Neural Networks (DANNs) or Deep Neural Networks (DNNs) is as much as art as much science. Following notebooks are designed to offer a deep understanding of the issues related to training DNNs.
+If github in unable to render a Jupyter notebook, copy the link of the notebook and enter into the nbviewer: https://nbviewer.jupyter.org/
+
+
+Training Deep Artificial Neural Networks (DANNs) or Deep Neural Networks (DNNs) is **as much art as much science**. Following notebooks are designed to offer a deep understanding of the issues related to training DNNs.
 
 - Notebook 1: Initialization of Weights - it is useful to solve the vanishing/exploding gradients problem in DNNs.
 
